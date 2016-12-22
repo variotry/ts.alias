@@ -1,0 +1,2 @@
+# ts.alias
+Define aliases
