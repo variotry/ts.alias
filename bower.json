@@ -1,0 +1,19 @@
+{
+	"name": "ts.alias",
+	"main": [
+		"dist/alias.min.js",
+		"dist/alias.d.ts"
+	],
+	"ignore": [
+		"**/.*",
+		"bowerLibs",
+		"gulpfile.js",
+		"gulpfiles",
+		"package.json",
+		"tsconfig.json",
+		"tslint.json",
+		"typings.json",
+		"*.sln",
+		"*.csproj"
+	]
+}
